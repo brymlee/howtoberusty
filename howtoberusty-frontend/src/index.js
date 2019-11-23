@@ -1,1 +1,2 @@
-import FormContainer from "./js/components/container/FormContainer.jsx";
+import HowToBeRustyContainer from "./js/components/container/HowToBeRustyContainer.jsx";
+import './app.scss';
